@@ -13,9 +13,9 @@ This project is a comprehensive Next.js web application that demonstrates fundam
 * Manage component state with React hooks
 * Structure a project with proper directory organization
 * Apply responsive design principles with Tailwind CSS
-* 
-### Requirements
-Technical Requirements
+  
+## Requirements
+### Technical Requirements
 * Node.js (v16 or later)
 * npm or yarn
 * Next.js (latest version)
